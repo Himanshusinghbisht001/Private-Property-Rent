@@ -138,15 +138,9 @@ This project significantly strengthened my React fundamentals and improved my co
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
-
 ## 👨‍💻 Author
 
-**Bunny**
+**Himanshu Singh Bisht**
 
 Diploma IT Student | Frontend Developer
 
